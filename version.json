@@ -1,4 +1,16 @@
 {
     "version": "3.1.2",
-    "download_url": "https://github.com/Biiliiee/CipherDNA-Pro/releases/download/v3.1.2/cypherdna.zip"
+    "download_url": "https://github.com/Biiliiee/CipherDNA-Pro/releases/download/v3.1.2/cypherdna.zip",
+    "changelog_pt": [
+        "🛡️ Blindagem v2: Resolvido bugs de amnésia da licença.",
+        "📂 Pastas Dinâmicas: Auto-criação de diretórios na pasta do executável.",
+        "⚡ Turbo Build: Compilação 5x mais rápida no GitHub.",
+        "✨ Novo Motor: Detecção de depuradores e anti-tamper."
+    ],
+    "changelog_en": [
+        "🛡️ Shield v2: Fixed license amnesia bugs.",
+        "📂 Dynamic Folders: Auto-creation of directories in the EXE folder.",
+        "⚡ Turbo Build: 5x faster compilation on GitHub.",
+        "✨ New Engine: Debugger detection and active anti-tamper."
+    ]
 }
