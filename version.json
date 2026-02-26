@@ -1,18 +1,18 @@
 {
-    "version": "3.1.3",
-    "download_url": "https://github.com/Biiliiee/CipherDNA-Pro/releases/download/v3.1.3/cypherdna.zip",
+    "version": "3.1.4",
+    "download_url": "https://github.com/Biiliiee/CipherDNA-Pro/releases/download/v3.1.4/cypherdna.zip",
     "changelog_pt": [
-        "📦 Registro de Ativos: v.json e nomes_dataset agora no .exe.",
+        "📦 Registro de Ativos: v.json e nomes_dataset no .exe.",
         "🔨 Auto-Reparo: Software cria pastas e arquivos se deletados.",
-        "🔑 Fix Licença: Fim do loop de ativação e caminhos temporários.",
-        "✨ UX: Novidades agora só aparecem no comando inicial.",
-        "🧠 Gen: Suporte a geração de tokens únicos (r=1) para maior precisão."
+        "🔑 Fix Licença: Detecção de Binário Nativo (Hyper-Robust) v2.",
+        "✨ UX: Correção final nos caminhos de persistência (Desktop vs Temp).",
+        "🧠 Gen: Suporte a geração de tokens únicos (r=1) para precisão."
     ],
     "changelog_en": [
-        "📦 Asset Registry: v.json and names_dataset now in .exe.",
+        "📦 Asset Registry: v.json and names_dataset in .exe.",
         "🔨 Auto-Repair: Software creates folders and files if deleted.",
-        "🔑 License Fix: No more activation loops or temp folder issues.",
-        "✨ UX: What's New panel only shows on base command.",
+        "🔑 License Fix: Hyper-Robust Native Binary Detection v2.",
+        "✨ UX: Final fix for persistence paths (Desktop vs Temp).",
         "🧠 Gen: Support for single token generation (r=1) for accuracy."
     ]
 }
