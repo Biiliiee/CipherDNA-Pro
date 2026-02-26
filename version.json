@@ -1,16 +1,16 @@
 {
-    "version": "3.1.2",
-    "download_url": "https://github.com/Biiliiee/CipherDNA-Pro/releases/download/v3.1.2/cypherdna.zip",
+    "version": "3.1.3",
+    "download_url": "https://github.com/Biiliiee/CipherDNA-Pro/releases/download/v3.1.3/cypherdna.zip",
     "changelog_pt": [
-        "🛡️ Blindagem v2: Resolvido bugs de amnésia da licença.",
-        "📂 Pastas Dinâmicas: Auto-criação de diretórios na pasta do executável.",
-        "⚡ Turbo Build: Compilação 5x mais rápida no GitHub.",
-        "✨ Novo Motor: Detecção de depuradores e anti-tamper."
+        "📦 Registro de Ativos: v.json e nomes_dataset agora embutidos no .exe.",
+        "🔨 Auto-Reparo: Software cria pastas e arquivos se deletados.",
+        "🔑 Fix Licença: Fim do loop de ativação em pastas restritas.",
+        "🚀 Nuitka Native: Detecção de ambiente compilado aprimorada."
     ],
     "changelog_en": [
-        "🛡️ Shield v2: Fixed license amnesia bugs.",
-        "📂 Dynamic Folders: Auto-creation of directories in the EXE folder.",
-        "⚡ Turbo Build: 5x faster compilation on GitHub.",
-        "✨ New Engine: Debugger detection and active anti-tamper."
+        "📦 Asset Registry: v.json and names_dataset now embedded in .exe.",
+        "🔨 Auto-Repair: Software creates folders and files if deleted.",
+        "🔑 License Fix: End of activation loop in restricted folders.",
+        "🚀 Nuitka Native: Improved compiled environment detection."
     ]
 }
