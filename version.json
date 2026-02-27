@@ -1,18 +1,18 @@
 {
-    "version": "3.1.9",
-    "download_url": "https://github.com/Biiliiee/CipherDNA-Pro/releases/download/v3.1.9/cypherdna.zip",
+    "version": "3.2.0",
+    "download_url": "https://github.com/Biiliiee/CipherDNA-Pro/releases/download/v3.2.0/cypherdna.zip",
     "changelog_pt": [
-        "🛡️ Path Shield v7: Blindagem TOTAL de diretórios.",
-        "🚀 Auto-Init Pro: Todas as pastas (incluindo trainer e wordlists) são criadas no Desktop/CWD.",
-        "🔑 Fix Licença: Persistência garantida 100% fora da pasta Temp.",
-        "📦 Standalone: Inteligência embutida mas com espelhamento automático na pasta do usuário.",
-        "✨ Estabilidade: Testado em simulação real de descompactação OneFile."
+        "🛡️ NUCLEAR Path Shield: Detecção de caminho via CMD do Windows (Infalível).",
+        "🚀 Instant Init: Pastas criadas na carga do módulo antes de qualquer prompt.",
+        "🔑 Fix Licença: 100% de persistência garantida fora da pasta Temp.",
+        "✨ UI: Ícones ASCII universais para evitar erros de renderização no Windows.",
+        "📦 Standalone: Melhoria na herança de dados embutidos."
     ],
     "changelog_en": [
-        "🛡️ Path Shield v7: TOTAL directory shielding.",
-        "🚀 Auto-Init Pro: All folders (including trainer and wordlists) are created in Desktop/CWD.",
+        "🛡️ NUCLEAR Path Shield: Path detection via Windows CMD (Bulletproof).",
+        "🚀 Instant Init: Folders created on module load before any prompt.",
         "🔑 License Fix: 100% guaranteed persistence outside the Temp folder.",
-        "📦 Standalone: Embedded intelligence with automatic mirroring in the user's folder.",
-        "✨ Stability: Tested in real-world OneFile extraction simulation."
+        "✨ UI: Universal ASCII icons to prevent rendering errors on Windows.",
+        "📦 Standalone: Improved inherited embedded data handling."
     ]
 }
