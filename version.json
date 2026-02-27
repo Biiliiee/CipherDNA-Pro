@@ -1,18 +1,18 @@
 {
-    "version": "3.1.4",
-    "download_url": "https://github.com/Biiliiee/CipherDNA-Pro/releases/download/v3.1.4/cypherdna.zip",
+    "version": "3.1.5",
+    "download_url": "https://github.com/Biiliiee/CipherDNA-Pro/releases/download/v3.1.5/cypherdna.zip",
     "changelog_pt": [
-        "📦 Registro de Ativos: v.json e nomes_dataset no .exe.",
-        "🔨 Auto-Reparo: Software cria pastas e arquivos se deletados.",
-        "🔑 Fix Licença: Detecção de Binário Nativo (Hyper-Robust) v2.",
-        "✨ UX: Correção final nos caminhos de persistência (Desktop vs Temp).",
-        "🧠 Gen: Suporte a geração de tokens únicos (r=1) para precisão."
+        "🛡️ Arquitetura Hyper-Robust: Detecção de caminho blindada v3.",
+        "📦 Standalone Core: trainer_data e wordlists agora embutidos no .exe.",
+        "🔑 Fix Licença: Persistência garantida na pasta do executável (Desktop).",
+        "✨ Estabilidade: Fim dos arquivos perdidos em pastas Temp do Windows.",
+        "🧠 Gen: Suporte r=1 para strings curtas (ex: xbox123) corrigido."
     ],
     "changelog_en": [
-        "📦 Asset Registry: v.json and names_dataset in .exe.",
-        "🔨 Auto-Repair: Software creates folders and files if deleted.",
-        "🔑 License Fix: Hyper-Robust Native Binary Detection v2.",
-        "✨ UX: Final fix for persistence paths (Desktop vs Temp).",
-        "🧠 Gen: Support for single token generation (r=1) for accuracy."
+        "🛡️ Hyper-Robust Architecture: Shielded path detection v3.",
+        "📦 Standalone Core: trainer_data and wordlists now embedded in .exe.",
+        "🔑 License Fix: Guaranteed persistence in the executable folder (Desktop).",
+        "✨ Stability: No more lost files in Windows Temp folders.",
+        "🧠 Gen: Fixed r=1 support for short strings (e.g., xbox123)."
     ]
 }
