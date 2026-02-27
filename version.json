@@ -1,18 +1,18 @@
 {
-    "version": "3.1.8",
-    "download_url": "https://github.com/Biiliiee/CipherDNA-Pro/releases/download/v3.1.8/cypherdna.zip",
+    "version": "3.1.9",
+    "download_url": "https://github.com/Biiliiee/CipherDNA-Pro/releases/download/v3.1.9/cypherdna.zip",
     "changelog_pt": [
-        "🛡️ Path Shield v6: Bloqueio total de caminhos temporários (Temp FIX).",
-        "🔑 Persistência Garantida: Licenças e pastas agora seguem o terminal (CWD).",
-        "🚀 Fix OneFile: Correção definitiva para o modo de extração do Nuitka.",
-        "📦 Standalone: Motor de inteligência agora 100% embutido e funcional.",
-        "✨ Estabilidade: Chega de perder arquivos na pasta Temp do Windows."
+        "🛡️ Path Shield v7: Blindagem TOTAL de diretórios.",
+        "🚀 Auto-Init Pro: Todas as pastas (incluindo trainer e wordlists) são criadas no Desktop/CWD.",
+        "🔑 Fix Licença: Persistência garantida 100% fora da pasta Temp.",
+        "📦 Standalone: Inteligência embutida mas com espelhamento automático na pasta do usuário.",
+        "✨ Estabilidade: Testado em simulação real de descompactação OneFile."
     ],
     "changelog_en": [
-        "🛡️ Path Shield v6: Full block of temporary paths (Temp FIX).",
-        "🔑 Guaranteed Persistence: Licenses and folders now follow the terminal (CWD).",
-        "🚀 OneFile Fix: Definitive fix for Nuitka extraction mode.",
-        "📦 Standalone: Intelligence engine now 100% embedded and functional.",
-        "✨ Stability: No more lost files in Windows Temp folders."
+        "🛡️ Path Shield v7: TOTAL directory shielding.",
+        "🚀 Auto-Init Pro: All folders (including trainer and wordlists) are created in Desktop/CWD.",
+        "🔑 License Fix: 100% guaranteed persistence outside the Temp folder.",
+        "📦 Standalone: Embedded intelligence with automatic mirroring in the user's folder.",
+        "✨ Stability: Tested in real-world OneFile extraction simulation."
     ]
 }
